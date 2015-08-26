@@ -6,7 +6,7 @@ PART V (2015.9~2015.12)
 </code></pre>
 <img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xft1/v/t1.0-9/11873739_1022759017769367_5127912257885381547_n.jpg?oh=0469ba927670253cf8425c385b902c71&oe=566BBAC0&__gda__=1446676385_8d2e240b87188697bf8e998a0e30a57d" alt="part 1" style="width: 400px;"/>
 
-[D3를 이용한 시각적 스토리텔링](http://www.crcpress.com/product/isbn/9781439880937)
+교재: [D3를 이용한 시각적 스토리텔링](http://www.crcpress.com/product/isbn/9781439880937)
 
 |회차	    |날짜	   |주제	                                                    |발표자	|     후기	|
 |:---	    |:---	   |:---	                                                    |:---	|:---	|
@@ -29,7 +29,7 @@ PART V (2015.9~2015.12)
 
 <img src="http://webtechman.com/blog/wp-content/uploads/D3-big_data_visualizations-500x338.png" alt="part 1" style="width: 400px;"/>
 
-[Managing Your Biological Data with Python](http://www.crcpress.com/product/isbn/9781439880937)
+교재: [Managing Your Biological Data with Python](http://www.crcpress.com/product/isbn/9781439880937)
 
 |회차	    |날짜	   |주제	                                                    |발표자	|     후기	|
 |:---	    |:---	   |:---	                                                    |:---	|:---	|
