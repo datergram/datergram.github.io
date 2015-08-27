@@ -1,7 +1,7 @@
 
 <pre><code>
 PART V (2015.9~2015.12)
-격주 금요일 저녁. 8시 ~ 10시
+금요일 저녁. 7시30분 ~ 10시
 장소: 잠실
 </code></pre>
 <img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xft1/v/t1.0-9/11873739_1022759017769367_5127912257885381547_n.jpg?oh=0469ba927670253cf8425c385b902c71&oe=566BBAC0&__gda__=1446676385_8d2e240b87188697bf8e998a0e30a57d" alt="part 1" style="width: 400px;"/>
