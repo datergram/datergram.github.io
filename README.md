@@ -10,7 +10,7 @@ PART V (2015.9~2015.12)
 
 |회차	    |날짜	   |주제	                                                    |발표자	|     후기	|
 |:---	    |:---	   |:---	                                                    |:---	|:---	|
-|V-1    |8/28/2015  | [github, gist, bl.ocks.org](https://github.com/datergram/goni/blob/gh-pages/README.md)  | 곽두환  |   |
+|V-1    |8/28/2015  | [github, gist, bl.ocks.org](https://github.com/datergram/goni/blob/gh-pages/README.md)  | 곽두환  | [후기](https://www.facebook.com/groups/datergram/permalink/399396610262818/)  |
 |V-2    |2015  |     | 발표자  |   |
 |V-3    |2015  |     | 발표자  |   |
 |V-4    |2015  |     | 발표자  |   |
