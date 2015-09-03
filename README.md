@@ -34,7 +34,7 @@ PART V (2015.9~2015.12)
 
 <img src="http://webtechman.com/blog/wp-content/uploads/D3-big_data_visualizations-500x338.png" alt="part 1" style="width: 400px;"/>
 
-교재: [Managing Your Biological Data with Python](http://www.crcpress.com/product/isbn/9781439880937)
+교재: [R Graphics Cookbook : 데이터 시각화를 위한 실용 레시피](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788966260881)
 
 |회차	    |날짜	   |주제	                                                    |발표자	|     후기	|
 |:---	    |:---	   |:---	                                                    |:---	|:---	|
