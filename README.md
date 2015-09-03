@@ -4,7 +4,7 @@ PART V (2015.9~2015.12)
 금요일 저녁. 7시30분 ~ 10시
 장소: 잠실
 </code></pre>
-<img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xft1/v/t1.0-9/11873739_1022759017769367_5127912257885381547_n.jpg?oh=0469ba927670253cf8425c385b902c71&oe=566BBAC0&__gda__=1446676385_8d2e240b87188697bf8e998a0e30a57d" alt="part 1" style="width: 400px;"/>
+<img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xft1/v/t1.0-9/11873739_1022759017769367_5127912257885381547_n.jpg?oh=0469ba927670253cf8425c385b902c71&oe=566BBAC0&__gda__=1446676385_8d2e240b87188697bf8e998a0e30a57d" alt="part 5" style="width: 400px;"/>
 
 교재: [D3를 이용한 시각적 스토리텔링](http://www.insightbook.co.kr/wp-content/uploads/2015/05/D3_preview01.pdf)
 
@@ -30,7 +30,7 @@ PART V (2015.9~2015.12)
 
 파트 뚜리
 
-<img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/p843x403/10257786_1561944550703883_8059505099105145987_o.jpg" alt="part 1" style="width: 400px;"/>
+<img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/p843x403/10257786_1561944550703883_8059505099105145987_o.jpg" alt="part 2" style="width: 400px;"/>
 
 교재 [R을 활용한 탐색적 자료분석](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788973389162)
 
