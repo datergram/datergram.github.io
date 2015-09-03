@@ -30,7 +30,21 @@ PART V (2015.9~2015.12)
 
 파트 뚜리
 
-파트 투
+<img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/p843x403/10257786_1561944550703883_8059505099105145987_o.jpg" alt="part 1" style="width: 400px;"/>
+
+교재 [R을 활용한 탐색적 자료분석](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788973389162)
+
+|회차	    |날짜	   |주제	                                                    |발표자	|     후기	|
+|II-1 |11/14/2014  |[2장. 탐색적 자료분석이란?](https://docs.google.com/file/d/0Bw594TdiBdAUb1RfdXpnNlhBa0E)     | 시지연  | [후기](https://www.facebook.com/groups/datergram/permalink/304706033065210/)  |
+|    |             |[3장. 줄기와 잎](https://github.com/datergram/visual/blob/master/part2/ch03/ch3_StemPlot.md)                | 박정은  |                                                                               |
+|    |             |4장. 수치요약과 상자그림, 여러 그룹의 비교                | 유현주  |                                                   |
+|II-2 |11/21/2014  |[5장. 자료의 재표현](https://github.com/datergram/visual/blob/master/part2/ch05/ch05.md)    | 이시현  | [후기](https://www.facebook.com/groups/datergram/permalink/306987119503768/)          |
+|    |             |[6장. 확률 플롯의 활용](https://github.com/datergram/visual/blob/master/part2/ch06/EDA-6.md)               | 이세리  |                                                                         |
+|    |             |[7장. 2원 자료 · 빈도 표의 탐색](https://github.com/datergram/visual/blob/master/part2/ch07/Ch07_2way_EDA.md)             | 최창순  |                                                                 |
+|II-3 |11/28/2014  |8장. 시계열 자료의 탐색   | 송치성  | [후기](https://www.facebook.com/groups/datergram/permalink/309361989266281/)          |
+|    |             |[9장. 로버스트 선형회귀](https://github.com/datergram/visual/blob/master/part2/ch09/test.md)               | 김승욱  |                                                                         |
+|II-4 |12/5/2014  |[10장. 이변량 자료 탐색](https://github.com/datergram/visual/blob/master/part2/ch10/ch10.md)   | 박홍훈  | [후기](https://www.facebook.com/groups/datergram/permalink/311031492432664/)          |
+|    |             |11장. 다변량 자료 탐색            | 송숙영  |                                                                         |
 
 <img src="http://webtechman.com/blog/wp-content/uploads/D3-big_data_visualizations-500x338.png" alt="part 1" style="width: 400px;"/>
 
