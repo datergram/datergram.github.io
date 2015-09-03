@@ -9,7 +9,7 @@ PART V (2015.9~2015.12)
 교재: [D3를 이용한 시각적 스토리텔링](http://www.insightbook.co.kr/wp-content/uploads/2015/05/D3_preview01.pdf)
 
 |회차	    |날짜	   |주제	                                                    |발표자	|     후기	|
-|:---	    |:---	   |:---	                                                    |:---	|:---	|
+    |:---	    |:---	   |:---	                                                    |:---	|:---	|
 |V-1    |8/28/2015  | [github, gist, bl.ocks.org](https://github.com/datergram/goni/blob/gh-pages/README.md)  | 곽두환  | [후기](https://www.facebook.com/groups/datergram/permalink/399396610262818/)  |
 |V-2    |9/4/2015  | 자바스크립트 기초1    | 발표자  |   |
 |       |           | D3를 이용한 시각적 스토리텔링" 개괄과 지도 데이터 다루기    | 박은정  |   |
@@ -35,6 +35,7 @@ PART V (2015.9~2015.12)
 교재 [R을 활용한 탐색적 자료분석](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788973389162)
 
 |회차	    |날짜	   |주제	                                                    |발표자	|     후기	|
+|:---	    |:---	   |:---	                                                    |:---	|:---	|
 |II-1 |11/14/2014  |[2장. 탐색적 자료분석이란?](https://docs.google.com/file/d/0Bw594TdiBdAUb1RfdXpnNlhBa0E)     | 시지연  | [후기](https://www.facebook.com/groups/datergram/permalink/304706033065210/)  |
 |    |             |[3장. 줄기와 잎](https://github.com/datergram/visual/blob/master/part2/ch03/ch3_StemPlot.md)                | 박정은  |                                                                               |
 |    |             |4장. 수치요약과 상자그림, 여러 그룹의 비교                | 유현주  |                                                   |
