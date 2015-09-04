@@ -36,15 +36,15 @@ PART V (2015.9~2015.12)
 |회차	    |날짜	   |주제	                                                    |발표자	|     후기	|
 |:---	    |:---	   |:---	                                                    |:---	|:---	|
 | III-1    |12/12/2014  | [ch2. Displaying Time Series : Introduction](https://github.com/datergram/visual/blob/master/part3/A_SpaceTime/ch02_ch03/TS2-3.md)    | 이세리  |  [후기](https://www.facebook.com/groups/datergram/permalink/314507605418386/) |
-|        |      |ch3. Time on the horizontal axis    | 이세리  |   |
+|        |      |[ch3. Time on the horizontal axis](https://github.com/datergram/visual/blob/master/part3/A_SpaceTime/ch02_ch03/TS2-3.md#chapter-3-time-on-horizontal-axis)    | 이세리  |   |
 |        |      |ch4. Time as a Conditioning or Grouping Variable       | 서병선  |   |
-| III-2    |12/19/2014  | ch5. Time as a Complementary Variable   | 최창순  |  [후기A](https://www.facebook.com/groups/datergram/permalink/315288375340309/) [후기B](https://www.facebook.com/groups/datergram/permalink/315173288685151/)|
-|        |      |ch6. About the Data   | 최창순  |   |
+| III-2    |12/19/2014  | [ch5. Time as a Complementary Variable](https://github.com/datergram/visual/blob/master/part3/A_SpaceTime/ch05/Ch05.md)   | 최창순  |  [후기A](https://www.facebook.com/groups/datergram/permalink/315288375340309/) [후기B](https://www.facebook.com/groups/datergram/permalink/315173288685151/)|
+|        |      |[ch6. About the Data](https://github.com/datergram/visual/blob/master/part3/ch06/ch06.md)   | 최창순  |   |
 |        |      |중간발표 : 자기가 다룰 시계열 데이터 설명      | 개별  |   |
-| III-3    |1/9/2015  | ch7. Displaying Spatial Data : Introduction   | 배해진  |  [후기](https://www.facebook.com/groups/datergram/permalink/322672771268536/) |
-|        |      |ch8. Thematic Maps   | 김승욱  |   |
-| III-4    |1/16/2015  | ch9. Reference and Physical Maps + 지리데이터 개론  | 박정은  |  [후기](https://www.facebook.com/groups/datergram/permalink/324664707736009/) |
-|        |      |ch10. About the Data + 웹크롤링(json 파싱)   | 송치성  |   |
+| III-3    |1/9/2015  | [ch7. Displaying Spatial Data : Introduction](https://docs.google.com/file/d/0Bw594TdiBdAUTlVUR2M4ak5BRDQ)   | 배해진  |  [후기](https://www.facebook.com/groups/datergram/permalink/322672771268536/) |
+|        |      |[ch8. Thematic Maps](https://github.com/datergram/visual/tree/master/part3/A_SpaceTime/ch08)   | 김승욱  |   |
+| III-4    |1/16/2015  | [ch9. Reference and Physical Maps + 지리데이터 개론](https://github.com/datergram/visual/blob/master/part3/A_SpaceTime/ch09/ch09_01.md)  | 박정은  |  [후기](https://www.facebook.com/groups/datergram/permalink/324664707736009/) |
+|        |      | [ch10. About the Data + 웹크롤링(json 파싱)](https://github.com/datergram/visual/blob/master/part3/A_SpaceTime/ch10/ch10.md)   | 송치성  |   |
 | III-5    |1/16/2015  | ch11. Displaying Spatiotemporal Data : Introduction  | 도현주  |  [후기](https://www.facebook.com/groups/datergram/permalink/326579314211215/) |
 |        |      |ch12. Spatiotemporal Raster Data   | 송영숙  |   |
 | III-6    |1/30/2015  | ch13. Spatiotemporal Point Observations  | 송숙영  |  [후기](https://www.facebook.com/groups/datergram/permalink/328499740685839/) |
@@ -54,9 +54,9 @@ PART V (2015.9~2015.12)
 
 |회차	    |날짜	   |주제	                                                    |발표자	|     후기	|
 |:---	    |:---	   |:---	                                                    |:---	|:---	|
-| III-8    |2/13/2015  | ch1. Introduction  | 은지승  |   |
-|        |      |ch12. Spatiotemporal Raster Data   | 은지승  |   |
-| III-9    |2/27/2015  | ch3. Visualizing Network Data  | 서준석  |   |
+| III-8    |2/13/2015  | [ch1. Introduction](https://prezi.com/l0e60_dzc80b/part-3-b-statistical-analysis-of-network-data-with-r/)  | 은지승  |   |
+|        |      |[ch12. Spatiotemporal Raster Data](https://prezi.com/l0e60_dzc80b/part-3-b-statistical-analysis-of-network-data-with-r/)   | 은지승  |   |
+| III-9    |2/27/2015  | [ch3. Visualizing Network Data](https://github.com/datergram/visual/blob/master/part3/B_Network/ch03/ch03.md)  | 서준석  |   |
 |        |      |(보강B) R로 데이터 다루기 실습 1  | 김승욱  |   |
 | III-10    |3/6/2015  | 팀 선정 및 데이터 공유 (팀별 프로젝트 준비)  | 김승욱  |  |
 | III-11    |3/13/2015  | ch4. Descriptive Analysis of Network Graph Characteristics  | 김대권  |   |
