@@ -1,7 +1,7 @@
 
 <pre><code>
 PART V (2015.9~2015.12)
-금요일 저녁. 7시30분 ~ 10시
+금요일 저녁 7시30분 ~ 10시
 장소: 잠실
 </code></pre>
 <img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xft1/v/t1.0-9/11873739_1022759017769367_5127912257885381547_n.jpg?oh=0469ba927670253cf8425c385b902c71&oe=566BBAC0&__gda__=1446676385_8d2e240b87188697bf8e998a0e30a57d" alt="part 5" style="width: 400px;"/>
@@ -28,7 +28,48 @@ PART V (2015.9~2015.12)
 
 파트 포
 
-파트 뚜리
+<img src="http://news.vanderbilt.edu/files/network_iStock.jpg" alt="part 3" style="width: 400px;"/>
+
+교재 [Displaying Time Series Spatial and Space-Time Data with R](http://www.amazon.com/Displaying-Time-Spatial-Space-Time-Chapman/dp/1466565209)
+
+
+|회차	    |날짜	   |주제	                                                    |발표자	|     후기	|
+|:---	    |:---	   |:---	                                                    |:---	|:---	|
+| III-1    |12/12/2014  | [ch2. Displaying Time Series : Introduction](https://github.com/datergram/visual/blob/master/part3/A_SpaceTime/ch02_ch03/TS2-3.md)    | 이세리  |  [후기](https://www.facebook.com/groups/datergram/permalink/314507605418386/) |
+|        |      |ch3. Time on the horizontal axis    | 이세리  |   |
+|        |      |ch4. Time as a Conditioning or Grouping Variable       | 서병선  |   |
+| III-2    |12/19/2014  | ch5. Time as a Complementary Variable   | 최창순  |  [후기A](https://www.facebook.com/groups/datergram/permalink/315288375340309/) [후기B](https://www.facebook.com/groups/datergram/permalink/315173288685151/)|
+|        |      |ch6. About the Data   | 최창순  |   |
+|        |      |중간발표 : 자기가 다룰 시계열 데이터 설명      | 개별  |   |
+| III-3    |1/9/2015  | ch7. Displaying Spatial Data : Introduction   | 배해진  |  [후기](https://www.facebook.com/groups/datergram/permalink/322672771268536/) |
+|        |      |ch8. Thematic Maps   | 김승욱  |   |
+| III-4    |1/16/2015  | ch9. Reference and Physical Maps + 지리데이터 개론  | 박정은  |  [후기](https://www.facebook.com/groups/datergram/permalink/324664707736009/) |
+|        |      |ch10. About the Data + 웹크롤링(json 파싱)   | 송치성  |   |
+| III-5    |1/16/2015  | ch11. Displaying Spatiotemporal Data : Introduction  | 도현주  |  [후기](https://www.facebook.com/groups/datergram/permalink/326579314211215/) |
+|        |      |ch12. Spatiotemporal Raster Data   | 송영숙  |   |
+| III-6    |1/30/2015  | ch13. Spatiotemporal Point Observations  | 송숙영  |  [후기](https://www.facebook.com/groups/datergram/permalink/328499740685839/) |
+| III-7    |2/6/2015  | 파이썬 특강  | 김슬  |  [후기](https://www.facebook.com/groups/datergram/permalink/330893163779830/) |
+
+교재 [Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)
+
+|회차	    |날짜	   |주제	                                                    |발표자	|     후기	|
+|:---	    |:---	   |:---	                                                    |:---	|:---	|
+| III-8    |2/13/2015  | ch1. Introduction  | 은지승  |   |
+|        |      |ch12. Spatiotemporal Raster Data   | 은지승  |   |
+| III-9    |2/27/2015  | ch3. Visualizing Network Data  | 서준석  |   |
+|        |      |(보강B) R로 데이터 다루기 실습 1  | 김승욱  |   |
+| III-10    |3/6/2015  | 팀 선정 및 데이터 공유 (팀별 프로젝트 준비)  | 김승욱  |  |
+| III-11    |3/13/2015  | ch4. Descriptive Analysis of Network Graph Characteristics  | 김대권  |   |
+|        |      |ch5 Mathematical Models for Network Graphs. | 박정은  |   |
+| III-12    |3/20/2015  | ch6 Statistical Models for Network Graphs  | 김승욱  |  |
+| III-13    |3/27/2015  | ch7. Network Topology Inference  | 김가경  |  |
+| III-14    |4/3/2015  | Rmd 파일만들기+깃허브 연동  | 김무성  |   |
+|        |      |(보강C) R로 데이터 다루기 실습 2 | 김승욱  |   |
+| III-15    |4/10/2015  | ch8. Modeling and Prediction for Processes on Network Graphs  | 김승욱  |  |
+| III-16    |4/17/2015  | ch9. Analysis of Network Flow Data | 최창순  |  |
+| III-17    |4/24/2015  | ch10. Dynamic Networks | 최창순  |  |
+
+
 
 <img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/p843x403/10257786_1561944550703883_8059505099105145987_o.jpg" alt="part 2" style="width: 400px;"/>
 
