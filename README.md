@@ -26,12 +26,29 @@ PART V (2015.9~2015.12)
 |        |      |9장 재생 버튼 추가하기     | 발표자  |   |
 |V-11    |      |10장 나만의 시각화 만들기     | 발표자  |   |
 
-파트 포
+교재: [Python Data Visualization Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/python-data-visualization-cookbook)
+
+|회차	    |날짜	   |주제	                                                    |발표자	|     후기	|
+|:---	    |:---	   |:---	                                                    |:---	|:---	|
+|IV-1    |5/1/2015  |ch1. Preparing Your Working Environment     |   |   |
+|        |      |(보강A)Ipython     |   |   |
+|        |      |(보강B)파이썬 문법 기초     |   |   |
+|IV-2    |5/8/2015  |ch2. Knowing Your Data    |김가경   |   |
+|        |      |ch3. Drawing Your First Plots and Customizing Them     | 김가경  |   |
+|IV-3    |5/15/2015  |(보강 C) 파이썬으로 데이터 다루기 1   |   |   |
+|IV-4    |5/22/2015  |(보강 D) 파이썬으로 데이터 다루기 2   |   |   |
+|IV-5    |5/29/2015  |(보강 E) 파이썬으로 데이터 다루기 3   |   |   |
+|IV-6    |6/5/2015  |ch4. More Plots and Customizations  |   |   |
+|        |      |ch5. Making 3D Visualizations     |   |   |
+|IV-7    |6/12/2015  |ch6. Plotting Charts with Images and Maps |   |   |
+|        |      |ch7. Using Right Plots to Understand Data     |   |   |
+|IV-8    |6/19/2015  |ch8. More on matplotlib Gems |   |   |
+|        |      |(보강F) 파이썬을 이용한 네트워크 시각화     |   |   |
+|IV-9    |6/26/2015  |개인프로젝트 발표  |   |   |
 
 <img src="http://news.vanderbilt.edu/files/network_iStock.jpg" alt="part 3" style="width: 400px;"/>
 
 교재 [Displaying Time Series Spatial and Space-Time Data with R](http://www.amazon.com/Displaying-Time-Spatial-Space-Time-Chapman/dp/1466565209)
-
 
 |회차	    |날짜	   |주제	                                                    |발표자	|     후기	|
 |:---	    |:---	   |:---	                                                    |:---	|:---	|
