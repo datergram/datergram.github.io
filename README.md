@@ -11,7 +11,7 @@ PART V (2015.9~2015.12)
 |회차	    |날짜	   |주제	                                                    |발표자	|     후기	|
 |:---	    |:---	   |:---	                                                    |:---	|:---	|
 |V-1    |8/28/2015  | [github, gist, bl.ocks.org](https://github.com/datergram/goni/blob/gh-pages/README.md)  | [곽두환](https://www.facebook.com/kozazz)  | [후기](https://www.facebook.com/groups/datergram/permalink/399396610262818/)  |
-|V-2    |9/4/2015  | 자바스크립트 기초1    | 발표자  |   |
+|V-2    |9/4/2015  | 자바스크립트 기초1    | [이세리](https://www.facebook.com/seri.lee.90)  |   |
 |       |           | [D3를 이용한 시각적 스토리텔링" 개괄과 지도 데이터 다루기](http://www.lucypark.kr/slides/2015-datagram/#1)    | [박은정](https://www.facebook.com/echojuliett)  |   |
 |V-3    |9/11/2015  | 자바스크립트로 데이터 다루기1    | 발표자  |   |
 |V-4    |9/18/2015  | 자바스크립트로 데이터 다루기    | 발표자  |   |
