@@ -1,8 +1,8 @@
 
 <pre><code>
 PART V (2015.9~2015.12)
-금요일 저녁 7시30분 ~ 10시
-장소: 잠실
+금요일 저녁 8시 ~ 10시
+장소: 글로벌널리지
 </code></pre>
 <img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xft1/v/t1.0-9/11873739_1022759017769367_5127912257885381547_n.jpg?oh=0469ba927670253cf8425c385b902c71&oe=566BBAC0&__gda__=1446676385_8d2e240b87188697bf8e998a0e30a57d" alt="part 5" style="width: 400px;"/>
 
@@ -15,7 +15,8 @@ PART V (2015.9~2015.12)
 |       |           | [D3를 이용한 시각적 스토리텔링" 개괄과 지도 데이터 다루기](http://www.lucypark.kr/slides/2015-datagram/#1)    | [박은정](https://www.facebook.com/echojuliett)  | [후기](https://www.facebook.com/groups/datergram/permalink/402710599931419/)  |
 |V-3    |9/11/2015  | 자바스크립트로 데이터 다루기1 html+css    | [Hannah Song](https://www.facebook.com/sookyoung.song.3)  |   |
 |       |      |  자바스크립트 거북이 길러보기   | [송치성](https://www.facebook.com/shuraba)  |   |
-|V-4    |9/18/2015  | 자바스크립트로 데이터 다루기    | 발표자  |   |
+|V-4    |9/18/2015  | JS library / example / reference    | 발표자  |   |
+|    |  | 데이터 포인트 (데이터 탐색과 시각화 방법)    | 발표자  |   |
 |V-5    |2015  | 네이선 야우의 "데이터 포인트" 요약     | 발표자  |   |
 |V-6    |2015  |1장 시각적 스토리텔링과 D3 2장 데이터 기반 스토리를 찾고 시각적으로 전달하기   | 발표자  |   |
 |V-7    |2015  |3장 SVG - 확장 가능한 벡터 그래픽     | 발표자  |   |
