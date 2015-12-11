@@ -4,7 +4,6 @@ PART V (2015.9~2015.12)
 금요일 저녁 8시 ~ 10시
 장소: 글로벌널리지
 </code></pre>
-<img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xft1/v/t1.0-9/11873739_1022759017769367_5127912257885381547_n.jpg?oh=0469ba927670253cf8425c385b902c71&oe=566BBAC0&__gda__=1446676385_8d2e240b87188697bf8e998a0e30a57d" alt="part 5" style="width: 400px;"/>
 
 교재: [D3를 이용한 시각적 스토리텔링](http://www.insightbook.co.kr/wp-content/uploads/2015/05/D3_preview01.pdf)
 
